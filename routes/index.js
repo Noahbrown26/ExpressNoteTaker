@@ -69,5 +69,4 @@ app.delete("/notes/:id", (req, res) => {
       res.json(notesData);
     });
 
-
 module.exports = app;

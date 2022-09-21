@@ -1,15 +1,17 @@
-// require packages and paths //
+// require packages  //
 
 const express = require("express");
 const fs = require("fs");
+const app = express();
+
+// routes //
+
 const apiRoutes = require("./routes/index.js");
 const htmlRoutes = require('./routes/notes.js');
 
 // setup port //
 
 const PORT = process.env.PORT || 3001;
-
-const app = express();
 
 // middleware //
 
