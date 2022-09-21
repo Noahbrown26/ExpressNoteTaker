@@ -4,7 +4,7 @@
   
   
 ## Description
-This is the 11th challenge for the UW Coding bootcamp. For this challenge, we had to follow acceptance criteria to create an HTML application that can be used to create and save notes. Express.js was required to save persistent data in json.
+This is the 11th challenge for the UW Coding bootcamp. For this challenge, we had to follow acceptance criteria to create an HTML application that can be used to create and save notes. Express.js was required to save persistent data in JSON and FS was used to create and read files.
   
 ## Table of Contents
 * [Description](#description)
