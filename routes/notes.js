@@ -1,11 +1,11 @@
-// require packages and files //
+// require packages and paths //
 
 const app = require("express").Router();
 const fs = require("fs");
 const path = require("path");
 const notes = require("../db/db.json");
 
-// get method to return database //
+// get method to return json //
 
 app.get("/notes", function (req, res) {
     res.json(notes);
