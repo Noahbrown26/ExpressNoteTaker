@@ -12,7 +12,7 @@ This is the 11th challenge for the UW Coding bootcamp. For this challenge, we ha
 * [Questions](#questions)
   
 ## Usage
-You can view a walkthrough video of the application [here](#)
+You can view the application [here](#)
 
 ![](#)
   
